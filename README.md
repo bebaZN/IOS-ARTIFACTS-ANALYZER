@@ -142,14 +142,4 @@ Unauthorized access to device data may violate computer fraud laws.
 
 ---
 
-## 🎓 For Your Forensic Report
 
-Structure your written report as:
-1. Cover page (case #, examiner, date, device)
-2. Executive summary
-3. Methodology (acquisition, tools, hash verification)
-4. Chain of custody table
-5. Artifact findings (reference the HTML report)
-6. GPS map analysis
-7. Conclusion and limitations
-8. Appendix (tool output, raw hashes)
